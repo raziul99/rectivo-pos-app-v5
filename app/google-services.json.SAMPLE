@@ -1,0 +1,9 @@
+{
+  "REPLACE_ME": "Download the real google-services.json from Firebase console",
+  "steps": [
+    "Firebase console -> Project settings -> Your apps -> Add Android app",
+    "Android package name: com.rectivo.pos",
+    "Download google-services.json",
+    "Place it at RectivoPosApp/app/google-services.json (remove the .SAMPLE suffix)"
+  ]
+}

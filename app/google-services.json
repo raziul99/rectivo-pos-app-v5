@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864950357818",
+    "project_id": "rectivo-pos",
+    "storage_bucket": "rectivo-pos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864950357818:android:39867f4a0343a0bd00ca03",
+        "android_client_info": {
+          "package_name": "com.rectivo.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-fJ55gXX8K3uxXeZssU_deeWU3gu96s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
